@@ -2,7 +2,7 @@
 # ✍ Introduction
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-banner.png" alt="dnsChanger banner" width="600" border="2px solid red">
+    <img src="https://cdn.wl-std.com/assets/image/banner/ai-dns.svg" alt="dnsChanger banner" width="600" border="2px solid red">
 
 
 <div>
