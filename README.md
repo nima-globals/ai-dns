@@ -5,8 +5,7 @@
     <img src="https://cdn.wl-std.com/assets/image/banner/ai-dns.svg" alt="dnsChanger banner" width="600" border="2px solid red">
 
 
-<div>
-<center>
+
  <img src="https://img.shields.io/github/stars/nima-globals/ai-dns" alt="stars"> <img src="https://img.shields.io/github/downloads/nima-globals/ai-dns/total.svg" alt="total" >  <img src="https://img.shields.io/badge/antivirus-PASS-green" alt="antivirus" > <br><a href="https://daramet.com/nimaglobals"><img width=130 src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" /></a>
 
 <br><br>
@@ -15,8 +14,7 @@
 A DNS changer program that includes 8 well-known DNS providers and supports over 8000 DNS options.
 and It can select and activate the best DNS by analyzing the specific DNS pings of each program or game.
 </p>
-</center>
-</div>
+
 </p>
 <br>
 
