@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-banner.png" alt="dnsChanger banner" width="600" border="2px solid red">
-</p>
+
 
 <div>
 <center>
@@ -17,6 +17,7 @@ and It can select and activate the best DNS by analyzing the specific DNS pings 
 </p>
 </center>
 </div>
+</p>
 <br>
 
 ## 📷 Images
