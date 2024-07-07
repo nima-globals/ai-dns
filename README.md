@@ -37,4 +37,4 @@ You can check the antivirus result [here](https://www.virustotal.com/gui/file/5a
 
 <br>
 
-**Special Thank To [Pooriya](https://pooriya.wl-std.com/)**
+**Ai Mode List & Idea By [Pooriya](https://pooriya.wl-std.com/)**
