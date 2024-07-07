@@ -26,6 +26,7 @@ and It can select and activate the best DNS by analyzing the specific DNS pings 
 
 Ai Mode Idea & Api By [Pooriya(WL-STD)](https://pooriya.wl-std.com)
 
+
 <br>
 
 ## 📥 Download
