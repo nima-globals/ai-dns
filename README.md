@@ -35,4 +35,4 @@ Please visit the [releases](https://github.com/nima-globals/ai-dns/releases) sec
 
 You can check the antivirus result [here](https://www.virustotal.com/gui/file/5a2ce805675bec937ebfadf89f0694b1f61d693f89f8486cb1affac208c24a4e?nocache=1).
 
-** Special Thank To [Pooriya](https://pooriya.wl-std.com/) **
+**Special Thank To [Pooriya](https://pooriya.wl-std.com/)**
