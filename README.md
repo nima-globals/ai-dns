@@ -1,7 +1,7 @@
 # ✍ Introduction
 
 <p align="center" style="border-radius: 20px;">
-    <img src="https://cdn.wl-std.com/assets/image/banner/ai-dns.svg" alt="dnsChanger banner" width="600" style="border-radius: 20px;">
+    <img src="https://wl-std.com/assets/image/banner/wl-downloader.svg" alt="dnsChanger banner" width="600" style="border-radius: 20px;">
 </p>
 
 <p align="center">
