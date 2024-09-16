@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/antivirus-PASS-green" alt="antivirus" > <br><a href="https://daramet.com/nimaglobals"><img width=130 src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" /></a>
+ <img src="https://img.shields.io/github/downloads/nima-globals/ai-dns/total.svg" alt="total" ><img src="https://img.shields.io/badge/antivirus-PASS-green" alt="antivirus" > <br><a href="https://daramet.com/nimaglobals"><img width=130 src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" /></a>
 </p>
 <br>
 
