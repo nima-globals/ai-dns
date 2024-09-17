@@ -17,7 +17,12 @@ and It can select and activate the best DNS by analyzing the specific DNS pings 
 
 ## 📷 Images
 
-![dns changer](https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-blue-v1.7.jpg" alt="Ai Mode" width="400">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-v1.7.jpg" alt="Ai Mode" width="400">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-light-v1.7.jpg" alt="Ai Mode" width="400">
+</p>
+
 
 <br>
 
