@@ -15,6 +15,13 @@ and It can select and activate the best DNS by analyzing the specific DNS pings 
 </p>
 <br>
 
+###  Download from Our Servers (Windows)
+
+We offer two download options from our servers:
+
+- 1: [🌍 Download from Europe](https://dl1.wl-std.com/AI%20DNS.exe) <br>
+- 2: [🌍 Download from Tehran](https://dl2.wl-std.com/AI%20DNS.exe)
+
 ## 📷 Images
 
 <p align="center">
