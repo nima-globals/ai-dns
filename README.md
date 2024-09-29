@@ -36,6 +36,7 @@ We offer two download options from our servers:
 ##           
 
 Ai Mode Idea & Api By [Pooriya(WL-STD)](https://pooriya.wl-std.com)
+Designe By [Mahbody](https://mahbody.ir/)
 
 <br>
 
