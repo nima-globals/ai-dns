@@ -25,9 +25,15 @@ We offer two download options from our servers:
 ## 📷 Images
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-blue-v1.7.jpg" alt="Ai Mode" width="400">
-<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-v1.7.jpg" alt="Ai Mode" width="400">
-<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-light-v1.7.jpg" alt="Ai Mode" width="400">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-blue-v1.7.jpg" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-dark-v1.7.jpg" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/ai-dns-light-v1.7.jpg" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (1).png" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (2).png" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (3).png" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (4).png" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (5).png" alt="Ai Mode" width="300">
+<img src="https://raw.githubusercontent.com/nima-globals/ai-dns/main/assets/newtheme (6).png" alt="Ai Mode" width="300">
 </p>
 
 
